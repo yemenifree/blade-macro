@@ -18,13 +18,13 @@
   ],
   "require": {
     "php": "^5.5.9 || ^7.0",
-    "illuminate/view": "5.1.* || 5.2.* || 5.3.*",
-    "illuminate/contracts": "5.1.* || 5.2.* || 5.3.*",
-    "illuminate/support": "5.1.* || 5.2.* || 5.3.*"
+    "illuminate/view": "5.1.* || 5.2.* || 5.3.* || 5.4.*",
+    "illuminate/contracts": "5.1.* || 5.2.* || 5.3.* || 5.4.*",
+    "illuminate/support": "5.1.* || 5.2.* || 5.3.* || 5.4.*"
   },
   "require-dev": {
-    "illuminate/console": "5.1.* || 5.2.* || 5.3.*",
-    "illuminate/view": "5.1.* || 5.2.* || 5.3.*",
+    "illuminate/console": "5.1.* || 5.2.* || 5.3.* || 5.4.*",
+    "illuminate/view": "5.1.* || 5.2.* || 5.3.* || 5.4.*",
     "mockery/mockery": "0.9.*",
     "phpunit/phpunit": "^4.0 || ^5.0"
   },
